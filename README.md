@@ -7,3 +7,7 @@ This work has been possible through a grant awarded to the [Bioinformatics Resea
 LIRcentral is co-funded by the European Union (European Regional Development Fund, ERDF) and the Republic of Cyprus through the project EXCELLENCE/0421/0576 under the EXCELLENCE HUBS programme of the [Cyprus Research and Innovation Foundation](https://research.org.cy).
 
 ![picture](https://lircentral.eu/images/LIRcentral-FundedBy.png)
+
+
+
+Contact: promponas.vasileios [at] ucy.ac.cy
