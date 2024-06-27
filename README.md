@@ -1,6 +1,6 @@
 # iLIR-ML-data
 
-This repository contains computer code (including Python notebooks), Machine Lerning Models and data files related to the prediction of functional LIR motifs based on data deposited in the (LIRcentral database)[https://lircentral.eu].
+This repository contains computer code (including Python notebooks), Machine Lerning Models and data files related to the prediction of functional LIR motifs based on data deposited in the [LIRcentral database](https://lircentral.eu).
 
 This work has been possible through a grant awarded to the [Bioinformatics Research Laboratory](https://vprobon.github.io/BRL-UCY) at the [University of Cyprus](https://www.ucy.ac.cy) for the [LIRcentral project](https://lircentral.eu/).
 
