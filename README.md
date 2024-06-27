@@ -3,9 +3,9 @@
 This repository contains computer code (including Python notebooks), Machine Lerning Models and data files related to the prediction of functional LIR motifs based on data deposited in the [LIRcentral database](https://lircentral.eu).
 
 
-An online, freely available Python Notebook implementing the iLIR-ML method (v0.9) can be accessed online at [Google Colab](https://colab.research.google.com/drive/1FjK2nR9gFtELOoBwvPDKicvkzV-2flhA?usp=sharing).
+An online, freely available Python Notebook implementing the iLIR-ML method (v0.9) can be accessed online at [Google Colab](https://colab.research.google.com/drive/1FjK2nR9gFtELOoBwvPDKicvkzV-2flhA?usp=sharing) for predicting functional LIRs.
 
-The iLIR_AF2disorder.ipynb notebook, contains code performing exploratory data analysis using features from Alphafold-disorder (Piovesan et al., 2021) and custom made PSSM profiles representing positive and negative instances of LIR motifs. 
+The iLIR_AF2disorder.ipynb notebook, contains code performing exploratory data analysis using features from Alphafold-disorder (Piovesan et al., 2021) and custom made PSSM profiles representing positive and negative instances of LIR motifs. This program was used to develop, validate and save the models which are used for the the iLIR-ML method.
 
 ## References
 Piovesan, D., Monzon, A. M., & Tosatto, S. C. E. (2022). Intrinsic protein disorder and conditional folding in AlphaFoldDB. Protein science : a publication of the Protein Society, 31(11), e4466. https://doi.org/10.1002/pro.4466
