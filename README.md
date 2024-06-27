@@ -5,6 +5,11 @@ This repository contains computer code (including Python notebooks), Machine Ler
 
 An online, freely available Python Notebook implementing the iLIR-ML method (v0.9) can be accessed online at [Google Colab](https://colab.research.google.com/drive/1FjK2nR9gFtELOoBwvPDKicvkzV-2flhA?usp=sharing).
 
+The iLIR_AF2disorder.ipynb notebook, contains code performing exploratory data analysis using features from Alphafold-disorder (Piovesan et al., 2021). 
+
+## References
+Piovesan, D., Monzon, A. M., & Tosatto, S. C. E. (2022). Intrinsic protein disorder and conditional folding in AlphaFoldDB. Protein science : a publication of the Protein Society, 31(11), e4466. https://doi.org/10.1002/pro.4466
+
 ## Contact
 Contact: promponas.vasileios [at] ucy.ac.cy
 
