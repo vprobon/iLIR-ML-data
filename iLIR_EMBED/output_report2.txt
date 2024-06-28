@@ -1,0 +1,215 @@
+Loading embedder
+Done
+New Ensemble Classifier: flanks (3, 10), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (3, 10), balance True):0.7272727272727273
+
+              precision    recall  f1-score   support
+
+          NO       0.81      0.63      0.71        35
+         YES       0.67      0.84      0.74        31
+
+    accuracy                           0.73        66
+   macro avg       0.74      0.73      0.73        66
+weighted avg       0.75      0.73      0.73        66
+Confusion Matrix:
+[[22 13]
+ [ 5 26]]
+New Ensemble Classifier: flanks (10, 3), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (10, 3), balance True):0.6818181818181818
+
+              precision    recall  f1-score   support
+
+          NO       0.72      0.66      0.69        35
+         YES       0.65      0.71      0.68        31
+
+    accuracy                           0.68        66
+   macro avg       0.68      0.68      0.68        66
+weighted avg       0.69      0.68      0.68        66
+Confusion Matrix:
+[[23 12]
+ [ 9 22]]
+New Ensemble Classifier: flanks (9, 9), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (9, 9), balance True):0.696969696969697
+
+              precision    recall  f1-score   support
+
+          NO       0.78      0.60      0.68        35
+         YES       0.64      0.81      0.71        31
+
+    accuracy                           0.70        66
+   macro avg       0.71      0.70      0.70        66
+weighted avg       0.71      0.70      0.69        66
+Confusion Matrix:
+[[21 14]
+ [ 6 25]]
+New Ensemble Classifier: flanks (3, 3), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (3, 3), balance True):0.696969696969697
+
+              precision    recall  f1-score   support
+
+          NO       0.73      0.69      0.71        35
+         YES       0.67      0.71      0.69        31
+
+    accuracy                           0.70        66
+   macro avg       0.70      0.70      0.70        66
+weighted avg       0.70      0.70      0.70        66
+Confusion Matrix:
+[[24 11]
+ [ 9 22]]
+New Ensemble Classifier: flanks (10, 9), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (10, 9), balance True):0.7121212121212122
+
+              precision    recall  f1-score   support
+
+          NO       0.81      0.60      0.69        35
+         YES       0.65      0.84      0.73        31
+
+    accuracy                           0.71        66
+   macro avg       0.73      0.72      0.71        66
+weighted avg       0.73      0.71      0.71        66
+Confusion Matrix:
+[[21 14]
+ [ 5 26]]
+New Ensemble Classifier: flanks (10, 10), balance True
+Recorded 249 embeddings
+Oversampled 79 embeddings
+Ensemble Model Accuracy (flanks (10, 10), balance True):0.7424242424242424
+
+              precision    recall  f1-score   support
+
+          NO       0.82      0.66      0.73        35
+         YES       0.68      0.84      0.75        31
+
+    accuracy                           0.74        66
+   macro avg       0.75      0.75      0.74        66
+weighted avg       0.76      0.74      0.74        66
+Confusion Matrix:
+[[23 12]
+ [ 5 26]]
+Ensemble 1:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(n_estimators=200,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(max_depth=5,
+                                                         n_estimators=200,
+                                                         random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(alpha=0.01,
+                                            hidden_layer_sizes=(100, 100),
+                                            max_iter=10000, random_state=42)),
+                             ('svm',
+                              SVC(C=1, kernel='poly', probability=True,
+                                  random_state=42))],
+                 voting='soft')
+
+Ensemble 2:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(min_samples_split=5,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(max_depth=5,
+                                                         random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=0.1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(alpha=0.01, max_iter=10000,
+                                            random_state=42)),
+                             ('svm',
+                              SVC(C=10, kernel='poly', probability=True,
+                                  random_state=42))],
+                 voting='soft')
+
+Ensemble 3:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(max_depth=10,
+                                                     n_estimators=200,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(alpha=0.001,
+                                            hidden_layer_sizes=(10, 2),
+                                            max_iter=10000, random_state=42)),
+                             ('svm',
+                              SVC(C=1, kernel='poly', probability=True,
+                                  random_state=42))],
+                 voting='soft')
+
+Ensemble 4:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(max_depth=10,
+                                                     min_samples_split=5,
+                                                     n_estimators=200,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(max_depth=5,
+                                                         n_estimators=200,
+                                                         random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(alpha=0.01,
+                                            hidden_layer_sizes=(50, 50),
+                                            max_iter=10000, random_state=42)),
+                             ('svm',
+                              SVC(C=1, probability=True, random_state=42))],
+                 voting='soft')
+
+Ensemble 5:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(max_depth=10,
+                                                     min_samples_split=5,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(n_estimators=200,
+                                                         random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(hidden_layer_sizes=(30,),
+                                            max_iter=10000, random_state=42)),
+                             ('svm',
+                              SVC(C=10, kernel='poly', probability=True,
+                                  random_state=42))],
+                 voting='soft')
+
+Ensemble 6:
+VotingClassifier(estimators=[('rf',
+                              RandomForestClassifier(max_depth=10,
+                                                     n_estimators=200,
+                                                     random_state=42)),
+                             ('gb',
+                              GradientBoostingClassifier(max_depth=5,
+                                                         n_estimators=200,
+                                                         random_state=42)),
+                             ('lr',
+                              LogisticRegression(C=1, max_iter=10000,
+                                                 random_state=42)),
+                             ('mlp',
+                              MLPClassifier(alpha=0.01, max_iter=10000,
+                                            random_state=42)),
+                             ('svm',
+                              SVC(C=1, kernel='poly', probability=True,
+                                  random_state=42))],
+                 voting='soft')
+

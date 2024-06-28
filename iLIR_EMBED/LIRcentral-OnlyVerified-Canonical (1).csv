@@ -1,0 +1,250 @@
+Species	UNIPROT ACC	UNIPROT ID	Protein name	Motif type	Up-stream	Motif	Down-stream	Start position	End position	(-2)LIR PSSM score	ExperimentallyVerified(FunctionalYES/NO)	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P34216	EDE1_YEAST	EH domain-containing and endocytosis protein 1	F LIR	EDNGADSESE	FENV	ANAGSMEQFE	1226	1229	10	accessory LIR	Ref.
+Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)	Q5ZUV9	RAVZ_LEGPH	Cysteine protease RavZ	F LIR	TGKDKLIVDE	FEEL	GEQESDIDEF	16	19	16	accessory LIR	Ref.
+Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)	Q5ZUV9	RAVZ_LEGPH	Cysteine protease RavZ	F LIR	CVKFDDTIDD	FVTI	EKDELFDVPD	435	438	19	accessory LIR	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P34216	EDE1_YEAST	EH domain-containing and endocytosis protein 1	W LIR	SDPAQVSNDE	WDEI	FAGFGNSKAE	1288	1291	23	accessory LIR	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P53867	ATG4_YEAST	Cysteine protease ATG4	F LIR	NTEDVDEYDC	FQDI	HCKKQKIVVM	446	449	9	NO	Ref.
+Drosophila melanogaster	Q86M30	Q86M30_DROME	WD-40 family member protein	F LIR	EYALRQERAK	FYRL	KYGTDPPQLN	166	169	4	NO	Ref.
+Drosophila melanogaster	Q86M30	Q86M30_DROME	WD-40 family member protein	F LIR	WNAKYTLRSH	FDGV	RSLIFHPEEP	415	418	6	NO	Ref.
+Caenorhabditis elegans	Q95XR4	EPG2_CAEEL	Ectopic P granules protein 2	F LIR	RMENYDLKED	FKIL	KEEKEDVNRT	382	385	14	NO	Ref.
+Arabidopsis thaliana	Q9FG23	CK5P3_ARATH	CDK5RAP3-like protein	F LIR	AVIRVKILKE	FSSL	PKEIDPFFQT	48	51	9	NO	Ref.
+Homo sapiens	P10909	CLUS_HUMAN	Clusterin	F LIR	SSLLEQLNEQ	FNWV	SRLANLTQGE	366	369	2	NO	Ref.
+Homo sapiens	Q2TAZ0	ATG2A_HUMAN	Autophagy-related protein 2 homolog A	F LIR	EQSWHSQLLE	FLDV	LDDPVLGYLP	1092	1095	9	NO	Ref.
+Homo sapiens	Q8TC07-2	TBC15_HUMAN	Isoform 2 of TBC1 domain family member 15	F LIR	NCQNKSLSQS	FENL	LDEPAYGLIQ	206	209	8	NO	Ref.
+Homo sapiens	Q8TC07-2	TBC15_HUMAN	Isoform 2 of TBC1 domain family member 15	F LIR	KDPYTATMIG	FSKV	TNYIFDSLRG	233	236	5	NO	Ref.
+Homo sapiens	Q8TC07-2	TBC15_HUMAN	Isoform 2 of TBC1 domain family member 15	F LIR	IGFSKVTNYI	FDSL	RGSDPSTHQR	241	244	5	NO	Ref.
+Homo sapiens	Q8WVZ9	KBTB7_HUMAN	Kelch repeat and BTB domain-containing protein 7	F LIR	VTMHDVDAES	FEVL	VDYCYTGRVS	122	125	13	NO	Ref.
+Homo sapiens	Q8WVZ9	KBTB7_HUMAN	Kelch repeat and BTB domain-containing protein 7	F LIR	ESSTEWDLDG	FSEL	DSESGSSSSF	649	652	12	NO	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	F LIR	CLNNLLQGEY	FSPV	ELSSIAHQLD	28	31	4	NO	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	F LIR	GSDSIAVKAS	FGVV	TKHEVEVSTL	116	119	6	NO	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	F LIR	EREETTTFAM	FYRL	RNILFERNRR	245	248	6	NO	Ref.
+Homo sapiens	Q2TAZ0	ATG2A_HUMAN	Autophagy-related protein 2 homolog A	F LIR	EAPSLHLQST	FSTL	VTVLKGRITA	926	929	10	NO	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	F LIR	EPTAPSPVET	FENI	SYGIGLSVAS	979	982	10	NO	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	F LIR	SGSEEETLQY	FSTV	DPNYRSRRKK	1026	1029	3	NO	Ref.
+Mus musculus	Q62165	DAG1_MOUSE	Dystroglycan 1	F LIR	TGSGSCRHLQ	FIPV	APPSPGSSAA	716	719	6	NO	Ref.
+Homo sapiens	Q8NEB9	PK3C3_HUMAN	Phosphatidylinositol 3-kinase catalytic subunit type 3	F LIR	VKVDWLDRLT	FREI	EMINESEKRS	198	201	7	NO	Ref.
+Homo sapiens	P55285	CADH6_HUMAN	Cadherin-6	F LIR	YDYLSDWGPR	FKKL	ADMYGGVDSD	774	777	5	NO	Ref.
+Homo sapiens	Q07820	MCL1_HUMAN	Induced myeloid leukemia cell differentiation protein Mcl-1	F LIR	KQRGWDGFVE	FFHV	EDLEGGIRNV	318	321	5	NO	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P46983	ATG36_YEAST	Autophagy-related protein 36	W LIR	SSLENTSWFG	WTLL	SRFLDREW	282	285	18	NO	Ref.
+Phytophthora infestans (strain T30-4)	D0NBE6	RD54_PHYIT	RxLR effector protein 54	W LIR	KLDDNPDFVQ	WLRL	VKDFRANNGN	138	141	12	NO	Ref.
+Komagataella phaffii (strain GS115 / ATCC 20864)	C4R8D7	ATG37_KOMPG	Autophagy-related protein 37	W LIR	RELLSELEYL	WNQI	SDVSPNDSSD	119	122	7	NO	Ref.
+Arabidopsis thaliana	Q9FG23	CK5P3_ARATH	CDK5RAP3-like protein	W LIR	FGRLSGASGV	WEAI	VRAFEKDHIY	100	103	14	NO	Ref.
+Homo sapiens	P10909	CLUS_HUMAN	Clusterin	W LIR	KYNELLKSYQ	WKML	NTSSLLEQLN	350	353	13	NO	Ref.
+Homo sapiens	P46934-4	NEDD4_HUMAN	Isoform 4 of E3 ubiquitin-protein ligase NEDD4	W LIR	AEQAEELEPG	WVVL	DQPDAACHLQ	172	175	19	NO	Ref.
+Mus musculus	P59017	B2L13_MOUSE	Bcl-2-like protein 13	W LIR	TVETAVHASG	WNKL	LVPLVLLQHL	147	150	15	NO	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	W LIR	RSFICNYKEH	WFTV	RKLGKQWFNL	120	123	12	NO	Ref.
+Homo sapiens	Q92830	KAT2A_HUMAN	Histone acetyltransferase KAT2A	W LIR	ESVPGIRETG	WKPL	GKEKGKELKD	716	719	14	NO	Ref.
+Homo sapiens	Q8TD19	NEK9_HUMAN	Serine/threonine-protein kinase Nek9	W LIR	HHVPDLSCRG	WHTI	LIVEKVLNSK	718	721	16	NO	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	W LIR	GDTTSSDDFD	WPRI	VLKINPPAMH	845	848	17	NO	Ref.
+Homo sapiens	O15111	IKKA_HUMAN	Inhibitor of nuclear factor kappa-B kinase subunit alpha	W LIR	CSLVVEPMEN	WLQL	MLNWDPQQRG	275	278	16	NO	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	W LIR	HIHSRYRGSY	WRTV	RACLGCPLRR	82	85	11	NO	Ref.
+Human immunodeficiency virus 1	Q72499	Q72499_9HIV1	Virion infectivity factor	W LIR	WQVDRMRINT	WKRL	VKHHMYISRK	21	24	13	NO	Ref.
+Cotton leaf curl Multan betasatellite	A5HBY5	A5HBY5_9VIRU	C1	Y LIR	VSTKSPSLIK	YEGI	VQYTYEDIHV	42	45	6	NO	Ref.
+Cotton leaf curl Multan betasatellite	A5HBY5	A5HBY5_9VIRU	C1	Y LIR	IKYEGIVQYT	YEDI	HVPFDFNGFE	50	53	10	NO	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P46983	ATG36_YEAST	Autophagy-related protein 36	Y LIR	IAVQKLSRDL	YPIL	RTCYREKTRR	191	194	7	NO	Ref.
+Caenorhabditis elegans	Q22436	Q22436_CAEEL	SeQueSTosome related	Y LIR	FESLSPSWGG	YPDL	EAAQRLEVID	605	608	7	NO	Ref.
+Komagataella phaffii (strain GS115 / ATCC 20864)	C4R8D7	ATG37_KOMPG	Autophagy-related protein 37	Y LIR	TIRTLSSRTG	YGGL	PRPPIENRVK	25	28	4	NO	Ref.
+Komagataella phaffii (strain GS115 / ATCC 20864)	C4R8D7	ATG37_KOMPG	Autophagy-related protein 37	Y LIR	AERLNSLSNY	YSNL	NPTPPLSSRR	198	201	2	NO	Ref.
+Arabidopsis thaliana	Q9FG23	CK5P3_ARATH	CDK5RAP3-like protein	Y LIR	FQTLDPEVIG	YLEV	KKVYEILLKT	69	72	9	NO	Ref.
+Arabidopsis thaliana	Q9FG23	CK5P3_ARATH	CDK5RAP3-like protein	Y LIR	VIGYLEVKKV	YEIL	LKTTPESRNI	76	79	9	NO	Ref.
+Mus musculus	Q924S7	SPRE2_MOUSE	Sprouty-related, EVH1 domain-containing protein 2	Y LIR	YHPDQRLPRS	YPQV	TFPEDDEEIV	198	201	6	NO	Ref.
+Mus musculus	Q924S7	SPRE2_MOUSE	Sprouty-related, EVH1 domain-containing protein 2	Y LIR	KGEVPKHEYT	YPYV	DSSDFGFGED	261	264	3	NO	Ref.
+Homo sapiens	P10909	CLUS_HUMAN	Clusterin	Y LIR	IVRSLMPFSP	YEPL	NFHAMFQPFL	235	238	10	NO	Ref.
+Homo sapiens	P10909	CLUS_HUMAN	Clusterin	Y LIR	ANLTQGEDQY	YLRV	TTVASHTSDS	383	386	4	NO	Ref.
+Homo sapiens	Q2TAZ0	ATG2A_HUMAN	Autophagy-related protein 2 homolog A	Y LIR	LWPRGTSEPE	YTEI	LTFPGTLGSQ	536	539	13	NO	Ref.
+Homo sapiens	Q6P9H5	GIMA6_HUMAN	GTPase IMAP family member 6	Y LIR	MEEEE	YEQI	PQENPPEELS	6	9	13	NO	Ref.
+Homo sapiens	Q8TC07-2	TBC15_HUMAN	Isoform 2 of TBC1 domain family member 15	Y LIR	SFENLLDEPA	YGLI	QKIKKDPYTA	215	218	4	NO	Ref.
+Homo sapiens	Q8WVZ9	KBTB7_HUMAN	Kelch repeat and BTB domain-containing protein 7	Y LIR	NIPLDSETHN	YQIV	NHDQKLLLIT	559	562	8	NO	Ref.
+Homo sapiens	Q9Y6K9	NEMO_HUMAN	NF-kappa-B essential modulator	Y LIR	KRKLAQLQVA	YHQL	FQEYDNHIKS	234	237	2	NO	Ref.
+Homo sapiens	Q9Y6K9	NEMO_HUMAN	NF-kappa-B essential modulator	Y LIR	QEQLEQLQRE	YSKL	KASCQESARI	340	343	11	NO	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	Y LIR	LELILFNSPE	YQRL	RIDPINERSF	99	102	11	NO	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	Y LIR	LTGPELISDT	YLAL	FLAQLQQEGY	147	150	14	NO	Ref.
+Homo sapiens	Q92830	KAT2A_HUMAN	Histone acetyltransferase KAT2A	Y LIR	MECELNPRIP	YTEL	SHIIKKQKEI	661	664	7	NO	Ref.
+Homo sapiens	Q92830	KAT2A_HUMAN	Histone acetyltransferase KAT2A	Y LIR	RCASALEKFF	YFKL	KEGGLIDK	826	829	4	NO	Ref.
+Homo sapiens	Q8TD19	NEK9_HUMAN	Serine/threonine-protein kinase Nek9	Y LIR	FSESEKDTLP	YEEL	QGLKVASEAP	845	848	9	NO	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	Y LIR	PVPSLSEADK	YQPL	SLVVKKKRCF	31	34	12	NO	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	Y LIR	DREISAGISS	YQLL	NYEDESDVSL	75	78	12	NO	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	Y LIR	CFQCSVDGVK	YVRL	HAVPCFDIWH	335	338	7	NO	Ref.
+Homo sapiens	Q9Y6I9	TX264_HUMAN	Testis-expressed protein 264	Y LIR	LLLTLLAFAG	YSGL	LAGVEVSAGS	27	30	7	NO	Ref.
+Homo sapiens	Q9UHK0	NUFP1_HUMAN	Nuclear fragile X mental retardation-interacting protein 1	Y LIR	ARWREERRKN	YPTL	ANIERKKKLK	247	250	7	NO	Ref.
+Homo sapiens	Q9UHK0	NUFP1_HUMAN	Nuclear fragile X mental retardation-interacting protein 1	Y LIR	TPALCSLMSS	YGSL	SGSESEPEET	368	371	8	NO	Ref.
+Homo sapiens	Q9UHK0	NUFP1_HUMAN	Nuclear fragile X mental retardation-interacting protein 1	Y LIR	NPKRKKDYHN	YQTL	FEPRTHHPYL	441	444	9	NO	Ref.
+Homo sapiens	Q2TAZ0	ATG2A_HUMAN	Autophagy-related protein 2 homolog A	Y LIR	SQYCGQPGLG	YFCL	EAEKATLYHR	981	984	5	NO	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	Y LIR	IYVTLPNKSF	YEKL	YNRIFNDLLL	954	957	8	NO	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	Y LIR	NTVTINLSRD	YVRV	MDMGLLELTI	1306	1309	15	NO	Ref.
+Mus musculus	P97784	CRY1_MOUSE	Cryptochrome-1	Y LIR	KKNSSPPLSL	YGQL	LWREFFYTAA	287	290	3	NO	Ref.
+Mus musculus	P97784	CRY1_MOUSE	Cryptochrome-1	Y LIR	RLNIERMKQI	YQQL	SRYRGLGLLA	488	491	5	NO	Ref.
+Homo sapiens	P55285	CADH6_HUMAN	Cadherin-6	Y LIR	ENDTDPTAPP	YDSL	ATYAYEGTGS	732	735	9	NO	Ref.
+Homo sapiens	P55285	CADH6_HUMAN	Cadherin-6	Y LIR	GPRFKKLADM	YGGV	DSDKDS	781	784	7	NO	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	LGEPPEHTLR	YLVL	HLASLQLGLL	46	49	8	NO	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	GALLLLSIYF	YYSL	PNAVGPPFTW	106	109	1	NO	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	QARIRTYNQH	YNNL	LRGAVSQRLY	186	189	2	NO	Ref.
+Homo sapiens	O75164	KDM4A_HUMAN	Lysine-specific demethylase 4A	Y LIR	PPKEWKPRAS	YDDI	DDLVIPAPIQ	59	62	12	NO	Ref.
+Human immunodeficiency virus 1	Q72499	Q72499_9HIV1	Virion infectivity factor	Y LIR	LGDAKLVITT	YWGL	HTGERDWHLG	69	72	4	NO	Ref.
+Human immunodeficiency virus 1	Q72499	Q72499_9HIV1	Virion infectivity factor	Y LIR	AGHNKVGSLQ	YLAL	AALIKPKQIK	147	150	8	NO	Ref.
+Macaca mulatta	Q0PF16	TRIM5_MACMU	Tripartite motif-containing protein 5	F LIR	DYDKTNVSAD	FEQL	REILDWEESN	187	190	14	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P53867	ATG4_YEAST	Cysteine protease ATG4	F LIR	SRVNFTYRTR	FVPI	ARAPDGPSPL	102	105	7	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P34216	EDE1_YEAST	EH domain-containing and endocytosis protein 1	F LIR	NVANAGSMEQ	FETI	DHKDLDDELQ	1238	1241	11	YES	Ref.
+Drosophila melanogaster	Q9GYV5	NEMO_DROME	NF-kappa-B essential modulator	F LIR	MSDEES	FVIL	GSSPCSSLMP	7	10	13	YES	Ref.
+Drosophila melanogaster	Q86M30	Q86M30_DROME	WD-40 family member protein	F LIR	VDSEAAVMAN	FEFL	GATEMSDDDE	315	318	11	YES	Ref.
+Drosophila melanogaster	Q8MQJ7	Q8MQJ7_DROME	Non-specific serine/threonine protein kinase	F LIR	SCSSHEDSDD	FVLV	PKNLPEDQRQ	391	394	17	YES	Ref.
+Caenorhabditis elegans	G5EC37	SEPA1_CAEEL	Protein sepa-1	F LIR	QFIYAFKTDC	FVEV	NRPEIKYNPA	107	110	10	YES	Ref.
+Caenorhabditis elegans	G5EC37	SEPA1_CAEEL	Protein sepa-1	F LIR	RLEYIDETGD	FQKI	SCTLCTCEVT	247	250	14	YES	Ref.
+Caenorhabditis elegans	G5EC37	SEPA1_CAEEL	Protein sepa-1	F LIR	IEQYIYDVRT	FGFV	QVKRNLVYDP	298	301	7	YES	Ref.
+Caenorhabditis elegans	Q10931	ATG12_CAEEL	Ubiquitin-like protein atg-12	F LIR	NTFAPSPDTT	FETL	SRCYSVKITD	90	93	11	YES	Ref.
+Caenorhabditis elegans	Q10931	ATG12_CAEEL	Ubiquitin-like protein atg-12	F LIR	LLNIQANNSL	FLYI	DNTFAPSPDT	75	78	6	YES	Ref.
+Caenorhabditis elegans	Q22436	Q22436_CAEEL	SeQueSTosome related	F LIR	LEVIDDNLLD	FSDV	AVEAQEAQEA	624	627	10	YES	Ref.
+Caenorhabditis elegans	Q23023	UNC51_CAEEL	Serine/threonine-protein kinase unc-51	F LIR	PGAPMQESTD	FTFL	PPRQESSPVK	358	361	14	YES	Ref.
+Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513)	Q5ZUV9	RAVZ_LEGPH	Cysteine protease RavZ	F LIR	LGEQESDIDE	FDLL	EGDEKLPGDS	29	32	15	YES	Ref.
+Caenorhabditis elegans	Q9U389	ALLO1_CAEEL	Allophagy receptor allo-1	F LIR	DPLDSLSNDE	FEII	ETFDPETEDR	13	16	16	YES	Ref.
+Nicotiana benthamiana	Q4QXM1	Q4QXM1_NICBE	Autophagy protein beclin1	F LIR	SQFGKAMEES	FVVL	PPPAASVYKC	118	121	13	YES	Ref.
+Toxoplasma gondii (strain ATCC 50853 / GT1)	S7URH8	S7URH8_TOXGG	Putative autophagy-related protein 3 atg3	F LIR	LRDDVPDLIN	FADI	DCLVQEDDDP	239	242	4	YES	Ref.
+Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	P06821	M2_I34A1	Matrix protein 2	F LIR	QSAVDADDGH	FVSI	ELE	91	94	8	YES	Ref.
+Homo sapiens	B9EIS5	B9EIS5_HUMAN	PCM1 protein	F LIR	NISQKSDEED	FVKV	EDLPLKLTIY	1955	1958	15	YES	Ref.
+Homo sapiens	O15392	BIRC5_HUMAN	Baculoviral IAP repeat-containing protein 5	F LIR	KQFEELTLGE	FLKL	DRERAKNKIA	101	104	11	YES	Ref.
+Homo sapiens	O75143	ATG13_HUMAN	Autophagy-related protein 13	F LIR	GGSSGNTHDD	FVMI	DFKPAFSKDD	444	447	20	YES	Ref.
+Homo sapiens	O75385	ULK1_HUMAN	Serine/threonine-protein kinase ULK1	F LIR	SKDSSCDTDD	FVMV	PAQFPGDLVA	357	360	19	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	F LIR	AKTALDADDR	FTLL	TAQKPPTEYS	186	189	10	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	F LIR	VIEKDSPESP	FEVI	IDKAAFDKEF	229	232	10	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	F LIR	CEREEKTSKN	FEEL	VSDSELHQDQ	536	539	11	YES	Ref.
+Homo sapiens	O95197	RTN3_HUMAN	Reticulon-3	F LIR	VIEKDSPESP	FEVI	IDKAAFDKEF	248	251	10	YES	Ref.
+Homo sapiens	P55072	TERA_HUMAN	Transitional endoplasmic reticulum ATPase	F LIR	LVRGGMRAVE	FKVV	ETDPSPYCIV	163	166	7	YES	Ref.
+Homo sapiens	Q14318	FKBP8_HUMAN	Peptidyl-prolyl cis-trans isomerase FKBP8	F LIR	LPAGVPPLED	FEVL	DGVEDAEGEE	24	27	17	YES	Ref.
+Mus musculus	Q8BJ56	PLPL2_MOUSE	Patatin-like phospholipase domain-containing protein 2	F LIR	ELIQANVCST	FIPV	YCGLIPPTLQ	147	150	10	YES	Ref.
+Homo sapiens	Q8IYT8	ULK2_HUMAN	Serine/threonine-protein kinase ULK2	F LIR	SKNSSCDTDD	FVLV	PHNISSDHSC	353	356	17	YES	Ref.
+Homo sapiens	Q8TC07-2	TBC15_HUMAN	Isoform 2 of TBC1 domain family member 15	F LIR	LKINQQEEPG	FEVI	TRIDLGERPV	280	283	12	YES	Ref.
+Homo sapiens	Q8TDY2	RBCC1_HUMAN	RB1-inducible coiled-coil protein 1	F LIR	PDSIDAHTFD	FETI	PHPNIEQTIH	702	705	17	YES	Ref.
+Mus musculus	Q8VDC1	FYCO1_MOUSE	FYVE and coiled-coil domain-containing protein 1	F LIR	SVCRPPDDAV	FDII	TDEELCQIQE	1239	1242	8	YES	Ref.
+Homo sapiens	Q92609	TBCD5_HUMAN	TBC1 domain family member 5	F LIR	PDDDSSKDSG	FTIV	SPLDI	787	790	11	YES	Ref.
+Homo sapiens	Q96CV9	OPTN_HUMAN	Optineurin	F LIR	LNSSGSSEDS	FVEI	RMAEGEAEGS	178	181	15	YES	Ref.
+Homo sapiens	Q99442	SEC62_HUMAN	Translocation protein SEC62	F LIR	SQHSSGNGND	FEMI	TKEELEQQTD	363	366	16	YES	Ref.
+Homo sapiens	Q9BQS8	FYCO1_HUMAN	FYVE and coiled-coil domain-containing protein 1	F LIR	TDYRPPDDAV	FDII	TDEELCQIQE	1280	1283	8	YES	Ref.
+Homo sapiens	Q9H6L5	RETR1_HUMAN	Reticulophagy regulator 1	F LIR	EDTDTEEGDD	FELL	DQSELDQIES	455	458	18	YES	Ref.
+Homo sapiens	Q9UQF2	JIP1_HUMAN	C-Jun-amino-terminal kinase-interacting protein 1	F LIR	HPSISEEEEG	FDCL	SSPERAEPPG	336	339	10	YES	Ref.
+Homo sapiens	Q9Y4P1	ATG4B_HUMAN	Cysteine protease ATG4B	F LIR	LSLLGGALPM	FELV	ELQPSHLACP	349	352	10	YES	Ref.
+Homo sapiens	Q9Y4P1	ATG4B_HUMAN	Cysteine protease ATG4B	F LIR	ERFFDSEDED	FEIL	SL	388	391	17	YES	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	F LIR	QPSGNMDDSG	FFSI	QVISNALKVW	74	77	8	YES	Ref.
+Homo sapiens	Q05513	KPCZ_HUMAN	Protein kinase C zeta type	F LIR	KRIDQSEFEG	FEYI	NPLLLSTEES	578	581	11	YES	Ref.
+Homo sapiens	P01137	TGFB1_HUMAN	Transforming growth factor beta-1 proprotein	F LIR	LATIHGMNRP	FLLL	MATPLERAQH	257	260	8	YES	Ref.
+Homo sapiens	O75376	NCOR1_HUMAN	Nuclear receptor corepressor 1	F LIR	SKTREYYEKQ	FPEI	RKQREQQERF	346	349	5	YES	Ref.
+Mus musculus	Q0ZLH2	PJVK_MOUSE	Pejvakin	F LIR	TTIAFSVFEL	FIYL	DGAFDICVTS	215	218	6	YES	Ref.
+Homo sapiens	Q8IZQ1	WDFY3_HUMAN	WD repeat and FYVE domain-containing protein 3	F LIR	DQLSLDEKDG	FIFV	NYSEGQTRAH	3346	3349	13	YES	Ref.
+Homo sapiens	Q6DD88	ATLA3_HUMAN	Atlastin-3	F LIR	PDILEEKHCE	FKQL	ALDHFKKTKK	390	393	5	YES	Ref.
+Homo sapiens	Q9Y6I9	TX264_HUMAN	Testis-expressed protein 264	F LIR	YSESGASGSS	FEEL	DLEGEGPLGE	273	276	13	YES	Ref.
+Homo sapiens	Q2TAZ0	ATG2A_HUMAN	Autophagy-related protein 2 homolog A	F LIR	GDGDTLDSDE	FCIL	DAPGLGIPPR	1362	1365	11	YES	Ref.
+Homo sapiens	Q96BY7	ATG2B_HUMAN	Autophagy-related protein 2 homolog B	F LIR	MTGVPTENDD	FCIL	FAPKAAMQEK	1491	1494	14	YES	Ref.
+Mus musculus	Q3TL44	NLRX1_MOUSE	NLR family member X1	F LIR	LEAGIKTEEE	FQLL	QIFRRDALRF	463	466	12	YES	Ref.
+Homo sapiens	Q8NEB9	PK3C3_HUMAN	Phosphatidylinositol 3-kinase catalytic subunit type 3	F LIR	GDESSPILTS	FELV	KVPDPQMSME	250	253	9	YES	Ref.
+Homo sapiens	Q14457	BECN1_HUMAN	Beclin-1	F LIR	RMMSTESANS	FTLI	GEASDGGTME	97	100	9	YES	Ref.
+Homo sapiens	P05106	ITB3_HUMAN	Integrin beta-3	F LIR	NPLYKEATST	FTNI	TYRGT	780	783	9	YES	Ref.
+Zea mays	B4F9B1	B4F9B1_MAIZE	Reticulon-like protein	F LIR	LTLRYEINRG	FATL	REIGHGHDLK	159	162	9	YES	Ref.
+Zea mays	B4F9B1	B4F9B1_MAIZE	Reticulon-like protein	F LIR	EIGHGHDLKK	FLIV	IAGLWLFSVL	174	177	8	YES	Ref.
+Zea mays	B4F9B1	B4F9B1_MAIZE	Reticulon-like protein	F LIR	CNFLTLFYIV	FVAL	YTIPVLYEKY	201	204	5	YES	Ref.
+Nannochloropsis sp. CCMP1779	H6WNF3	H6WNF3_9STRA	Lipid droplet surface protein	W LIR	ALAPVAFVFG	WILI	SSAPIQDKVV	125	128	18	YES	Ref.
+Epstein-Barr virus (strain B95-8)	P0CK58	BALF1_EBVB9	Apoptosis regulator BALF1	W LIR	RAVYNDHYDY	WSRL	RVVLCYTVVF	146	149	13	YES	Ref.
+Solanum tuberosum	M1BJF6	JOKA2_SOLTU	Protein JOKA2	W LIR	SVDDLCGVAE	WDPI	LEELKEMGFC	821	824	19	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P35193	ATG19_YEAST	Autophagy-related protein 19	W LIR	DGDDNEKALT	WEEL		412	415	18	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P40344	ATG3_YEAST	Autophagy-related protein 3	W LIR	EEQELDGVGD	WEDL	QDDIDDSLRV	270	273	22	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P40458	ATG32_YEAST	Autophagy-related protein 32	W LIR	HNVNDSISGS	WQAI	QPLDLGASFI	86	89	17	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Q06159	ATG39_YEAST	Autophagy-related protein 39	W LIR	MSEEDDH	WNLV	RLRRLRKGRE	8	11	13	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Q08412	CUE5_YEAST	Ubiquitin-binding protein CUE5	W LIR	DTPDTETKKK	WQPL	PPEPLDTTPT	373	376	15	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Q12292	ATG34_YEAST	Autophagy-related protein 34	W LIR	SGSTLSRPFT	WEEI		409	412	20	YES	Ref.
+Drosophila melanogaster	P14199	REF2P_DROME	Protein ref(2)P	W LIR	RRRSDSLDPE	WQLI	DNAYSANNSN	454	457	18	YES	Ref.
+Drosophila melanogaster	Q9VFC8-2	GYS_DROME	Isoform B of Glycogen [starch] synthase	W LIR	RTERLSDLLD	WRTL	GIYYRQARVK	609	612	18	YES	Ref.
+Phytophthora infestans (strain T30-4)	D0NBE6	RD54_PHYIT	RxLR effector protein 54	W LIR	FRKAKPLDFD	WEIV		378	381	23	YES	Ref.
+Caenorhabditis elegans	Q09969	BNIP3_CAEEL	NIP3 homolog	W LIR	TESTPGMSES	WVEL	APSRTSLCSS	71	74	20	YES	Ref.
+Caenorhabditis elegans	Q17740	Q17740_CAEEL	ALG-1 INteracting protein	W LIR	PAKRPIVVTG	WGEL	PENDPNNPSK	437	440	13	YES	Ref.
+Caenorhabditis elegans	Q17740	Q17740_CAEEL	ALG-1 INteracting protein	W LIR	ESTIFDENNR	WNDL	TTEQNPWYLP	462	465	10	YES	Ref.
+Caenorhabditis elegans	Q95XR4	EPG2_CAEEL	Ectopic P granules protein 2	W LIR	ASTESEEKAE	WEMV	DEE	684	687	20	YES	Ref.
+Arabidopsis thaliana	O82775	ATI1_ARATH	ATG8-interacting protein 1	W LIR	NEEHPPRGNE	WEVV	SLTSSAYAAA	14	17	18	YES	Ref.
+Arabidopsis thaliana	Q8VY98	ATI2_ARATH	ATG8-interacting protein 2	W LIR	KDEAATRGND	WEVV	SLTASAYAAA	14	17	21	YES	Ref.
+Arabidopsis thaliana	Q9SB64	NBR1_ARATH	Protein NBR1 homolog	W LIR	SVDALCGVSE	WDPI	LEELQEMGFC	661	664	20	YES	Ref.
+Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	P0C0U1	PB1F2_I34A1	Protein PB1-F2	W LIR	MPKQIVYWKQ	WLSL	RNPILVFLKT	61	64	15	YES	Ref.
+Mus musculus	Q924S7	SPRE2_MOUSE	Sprouty-related, EVH1 domain-containing protein 2	W LIR	DTSDEKFCLR	WMAL	IALSFLAPCM	370	373	11	YES	Ref.
+Homo sapiens	O14641	DVL2_HUMAN	Segment polarity protein dishevelled homolog DVL-2	W LIR	ESGLEVRDRM	WLKI	TIPNAFLGSD	444	447	18	YES	Ref.
+Homo sapiens	O15040	TCPR2_HUMAN	Tectonin beta-propeller repeat-containing protein 2	W LIR	MPHPEDLEDE	WEVI		1408	1411	23	YES	Ref.
+Homo sapiens	O15553	MEFV_HUMAN	Pyrin	W LIR	ELEAKECQSE	WELL	QDIGDILHRA	525	528	20	YES	Ref.
+Homo sapiens	O60238	BNI3L_HUMAN	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like	W LIR	LPPPAGLNSS	WVEL	PMNSSNGNDN	36	39	20	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	W LIR	MHNFTNEILT	WDLV	PQVKQQTDKS	323	326	16	YES	Ref.
+Homo sapiens	O95210	STBD1_HUMAN	Starch-binding domain-containing protein 1	W LIR	NSQDRVDHEE	WEMV	PRHSSWGDVG	203	206	21	YES	Ref.
+Homo sapiens	O95782	AP2A1_HUMAN	AP-2 complex subunit alpha-1	W LIR	EMAAQDFFQR	WKQL	SLPQQEAQKI	879	882	10	YES	Ref.
+Homo sapiens	P22681	CBL_HUMAN	E3 ubiquitin-protein ligase CBL	W LIR	DISNASSSFG	WLSL	DGDPTTNVTE	802	805	18	YES	Ref.
+Homo sapiens	P27797	CALR_HUMAN	Calreticulin	W LIR	QVESGSLEDD	WDFL	PPKKIKDPDA	200	203	26	YES	Ref.
+Homo sapiens	P35222	CTNB1_HUMAN	Catenin beta-1	W LIR	VVKLLHPPSH	WPLI	KATVGLIRNL	504	507	11	YES	Ref.
+Homo sapiens	P46934-4	NEDD4_HUMAN	Isoform 4 of E3 ubiquitin-protein ligase NEDD4	W LIR	SVDNRESSEN	WEII	REDEATMYSN	266	269	19	YES	Ref.
+Mus musculus	P59017	B2L13_MOUSE	Bcl-2-like protein 13	W LIR	SLPVSLGPES	WQQI	AMDPEEVKSL	273	276	17	YES	Ref.
+Homo sapiens	Q00610	CLH1_HUMAN	Clathrin heavy chain 1	W LIR	YAKKVGYTPD	WIFL	LRNVMRISPD	514	517	22	YES	Ref.
+Homo sapiens	Q12983	BNIP3_HUMAN	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3	W LIR	GMQEESLQGS	WVEL	HFSNNGNGGS	18	21	19	YES	Ref.
+Homo sapiens	Q13501	SQSTM_HUMAN	Sequestosome-1	W LIR	SDNCSGGDDD	WTHL	SSKEVDPSTG	338	341	24	YES	Ref.
+Homo sapiens	Q14318	FKBP8_HUMAN	Peptidyl-prolyl cis-trans isomerase FKBP8	W LIR	EPAPAPAPEE	WLDI	LGNGLLRKKT	93	96	19	YES	Ref.
+Homo sapiens	Q3MII6	TBC25_HUMAN	TBC1 domain family member 25	W LIR	PSEDSPLLED	WDII	SPKDVIGSDV	136	139	24	YES	Ref.
+Homo sapiens	Q562E7	WDR81_HUMAN	WD repeat-containing protein 81	W LIR	SREVSRDLHH	WIDL	TFGYKLQGKE	544	547	12	YES	Ref.
+Homo sapiens	Q86V97	KBTB6_HUMAN	Kelch repeat and BTB domain-containing protein 6	W LIR	SSSSLSDDDF	WVRV	APQ	668	671	14	YES	Ref.
+Homo sapiens	Q86VP1	TAXB1_HUMAN	Tax1-binding protein 1	W LIR	TPYIHPHPKD	WVGI	FKVGWSTARD	49	52	20	YES	Ref.
+Homo sapiens	Q8IXH6	T53I2_HUMAN	Tumor protein p53-inducible nuclear protein 2	W LIR	FVSEEDEVDG	WLII	DLPDSYAAPP	35	38	21	YES	Ref.
+Homo sapiens	Q8N9B5	JMY_HUMAN	Junction-mediating and -regulatory protein	W LIR	FALEETLESD	WVAV	RPHVFDEREK	13	16	22	YES	Ref.
+Homo sapiens	Q8WVZ9	KBTB7_HUMAN	Kelch repeat and BTB domain-containing protein 7	W LIR	SSSSFSDDEV	WVQV	APQRNAQDQQ	668	671	13	YES	Ref.
+Homo sapiens	Q92609	TBCD5_HUMAN	TBC1 domain family member 5	W LIR	EGTFNSYRKE	WEEL	FVNNNYLATI	59	62	20	YES	Ref.
+Homo sapiens	Q96A56	T53I1_HUMAN	Tumor protein p53-inducible nuclear protein 1	W LIR	PEFNEKEDDE	WILV	DFIDTCTGFS	31	34	20	YES	Ref.
+Homo sapiens	Q9C0C7-3	AMRA1_HUMAN	Isoform 3 of Activating molecule in BECN1-regulated autophagy protein 1	W LIR	EALNSGVEYY	WDQL	NETVFTVHSN	1020	1023	11	YES	Ref.
+Homo sapiens	Q9H0E2	TOLIP_HUMAN	Toll-interacting protein	W LIR	RAFSMDDRIA	WTHI	TIPESLRQGK	133	136	12	YES	Ref.
+Homo sapiens	Q9H0E2	TOLIP_HUMAN	Toll-interacting protein	W LIR	SLRQGKVEDK	WYSL	SGRQGDDKEG	151	154	15	YES	Ref.
+Homo sapiens	Q9ULG6	CCPG1_HUMAN	Cell cycle progression protein 1	W LIR	NSSDSDSSCG	WTVI	SHEGSDIEML	14	17	15	YES	Ref.
+Homo sapiens	Q9Y4G2	PKHM1_HUMAN	Pleckstrin homology domain-containing family M member 1	W LIR	QKVRPQQEDE	WVNV	QYPDQPEEPP	635	638	19	YES	Ref.
+Homo sapiens	P54252	ATX3_HUMAN	Ataxin-3	W LIR	WFTVRKLGKQ	WFNL	NSLLTGPELI	130	133	10	YES	Ref.
+Homo sapiens	Q9BWQ8	LFG2_HUMAN	Protein lifeguard 2	W LIR	APTAVPLHPS	WAYV	DPSSSSSYDN	65	68	12	YES	Ref.
+Homo sapiens	Q9P1Z2	CACO1_HUMAN	Calcium-binding and coiled-coil domain-containing protein 1	W LIR	PPGTMPSASD	WIGI	FKVEAACVRD	47	50	20	YES	Ref.
+Homo sapiens	Q8TD19	NEK9_HUMAN	Serine/threonine-protein kinase Nek9	W LIR	DPKPDLDSDS	WCLL	GTDSCRPSL	967	970	16	YES	Ref.
+Homo sapiens	P01137	TGFB1_HUMAN	Transforming growth factor beta-1 proprotein	W LIR	RLLLLLLPLL	WLLV	LTPGRPAAGL	17	20	11	YES	Ref.
+Homo sapiens	Q9UHK0	NUFP1_HUMAN	Nuclear fragile X mental retardation-interacting protein 1	W LIR	TAPPRDSWMF	WAML	PPPPPPLTSS	40	43	9	YES	Ref.
+Homo sapiens	Q6ZNE5	BAKOR_HUMAN	Beclin 1-associated autophagy-related key regulator	W LIR	SDEETDLGTD	WENL	PSPRFCDIPS	435	438	19	YES	Ref.
+Homo sapiens	Q01484	ANK2_HUMAN	Ankyrin-2	W LIR	RSERGLVEEE	WVIV	SDEEIEEARQ	1592	1595	20	YES	Ref.
+Homo sapiens	O15111	IKKA_HUMAN	Inhibitor of nuclear factor kappa-B kinase subunit alpha	W LIR	FMQGKRQKEI	WHLL	KIACTQSSAR	651	654	11	YES	Ref.
+Homo sapiens	O15111	IKKA_HUMAN	Inhibitor of nuclear factor kappa-B kinase subunit alpha	W LIR	EQGNSMMNLD	WSWL	TE	740	743	15	YES	Ref.
+Homo sapiens	P30086	PEBP1_HUMAN	Phosphatidylethanolamine-binding protein 1	W LIR	QVKNRPTSIS	WDGL	DSGKLYTLVL	55	58	14	YES	Ref.
+Homo sapiens	P63244	RACK1_HUMAN	Receptor of activated protein C kinase 1	W LIR	SGSRDKTIKL	WNTL	GVCKYTVQDE	132	135	11	YES	Ref.
+Homo sapiens	P63244	RACK1_HUMAN	Receptor of activated protein C kinase 1	W LIR	SSNPIIVSCG	WDKL	VKVWNLANCK	170	173	15	YES	Ref.
+Homo sapiens	Q07820	MCL1_HUMAN	Induced myeloid leukemia cell differentiation protein Mcl-1	W LIR	IHVFSDGVTN	WGRI	VTLISFGAFV	261	264	10	YES	Ref.
+Mus musculus	P70365	NCOA1_MOUSE	Nuclear receptor coactivator 1	W LIR	SSLRAAGRTG	WEDL	VRKCIYAFFQ	288	291	17	YES	Ref.
+Mus musculus	Q61026	NCOA2_MOUSE	Nuclear receptor coactivator 2	W LIR	STMRAAMKPG	WEDL	VRRCIQKFHT	296	299	18	YES	Ref.
+Homo sapiens	Q7Z6L1	TCPR1_HUMAN	Tectonin beta-propeller repeat-containing protein 1	W LIR	RYRRYKSRDI	WAKI	PSKDDPKELP	175	178	13	YES	Ref.
+Schizosaccharomyces pombe (strain 972 / ATCC 24843)	O13709	ATG43_SCHPO	Mitophagy receptor atg43	Y LIR	TSDVSSWEED	YELI	SLGSSQDALQ	28	31	17	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P38273	CCZ1_YEAST	Vacuolar fusion protein CCZ1	Y LIR	ANRESMGTKT	YGLV	RNFTSDLNTL	236	239	6	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P38273	CCZ1_YEAST	Vacuolar fusion protein CCZ1	Y LIR	FENSKDKEDF	YNCL	FWYFDDFLIV	445	448	4	YES	Ref.
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	P53867	ATG4_YEAST	Cysteine protease ATG4	Y LIR	NENLGVLEGD	YVDI	GAIFPHTTNT	424	427	16	YES	Ref.
+Drosophila melanogaster	A1Z995	A1Z995_DROME	Sequoia, isoform A	Y LIR	DAEQEHEYEE	YQVI	KAEVEAEAAE	313	316	14	YES	Ref.
+Caenorhabditis elegans	Q22342	Q22342_CAEEL	ATG11 domain-containing protein	Y LIR	LQQLVNEREQ	YRDV	IKSQPGGDQV	1015	1018	6	YES	Ref.
+Caenorhabditis elegans	G5EC37	SEPA1_CAEEL	Protein sepa-1	Y LIR	AASEGGNTYG	YQEL	DDTMSEGLLE	469	472	10	YES	Ref.
+Caenorhabditis elegans	Q95XR4	EPG2_CAEEL	Ectopic P granules protein 2	Y LIR	LRKENVEAKT	YSTL	LEIMLDEAEE	61	64	10	YES	Ref.
+Arabidopsis thaliana	O82245	TSPO_ARATH	Translocator protein homolog	Y LIR	GGFHKKPNAL	YLYL	AQFLLCLVWD	122	125	6	YES	Ref.
+Arabidopsis thaliana	Q94C95	ATG1A_ARATH	Serine/threonine-protein kinase ATG1a	Y LIR	VDSLELIERE	YVLV	NRPSASLEGS	360	363	13	YES	Ref.
+Arabidopsis thaliana	Q9FG23	CK5P3_ARATH	CDK5RAP3-like protein	Y LIR	EVDSGNDLGS	YEIV	NASDIPENSP	304	307	12	YES	Ref.
+Mus musculus	Q924S7	SPRE2_MOUSE	Sprouty-related, EVH1 domain-containing protein 2	Y LIR	LSFLAPCMCC	YLPL	RACHRCGVMC	386	389	4	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	Y LIR	LLTAQKPPTE	YSKV	EGIYTYSLSP	198	201	8	YES	Ref.
+Homo sapiens	O95197-2	RTN3_HUMAN	Isoform 2 of Reticulon-3	Y LIR	FAPESWPQRS	YDIL	ERNVKNGSDL	771	774	14	YES	Ref.
+Homo sapiens	P10909	CLUS_HUMAN	Clusterin	Y LIR	LQVAERLTRK	YNEL	LKSYQWKMLN	341	344	8	YES	Ref.
+Homo sapiens	P49023	PAXI_HUMAN	Paxillin	Y LIR	PYSYPTGNHT	YQEI	AVPPPVPPPP	40	43	10	YES	Ref.
+Homo sapiens	P55072	TERA_HUMAN	Transitional endoplasmic reticulum ATPase	Y LIR	VYLKPYFLEA	YRPI	RKGDIFLVRG	143	146	6	YES	Ref.
+Homo sapiens	Q14596	NBR1_HUMAN	Next to BRCA1 gene 1 protein	Y LIR	QSQSSASSED	YIII	LPECFDTSRP	732	735	17	YES	Ref.
+Homo sapiens	Q562E7	WDR81_HUMAN	WD repeat-containing protein 81	Y LIR	LVDAHTHLAS	YGVV	QLFDQPHPQR	578	581	7	YES	Ref.
+Homo sapiens	Q7Z434	MAVS_HUMAN	Mitochondrial antiviral-signaling protein	Y LIR	MPFAEDKT	YKYI	CRNFSNFCNV	9	12	8	YES	Ref.
+Homo sapiens	Q8IVP5	FUND1_HUMAN	FUN14 domain-containing protein 1	Y LIR	PQDYESDDDS	YEVL	DLTEYARRHQ	18	21	16	YES	Ref.
+Homo sapiens	Q8TD08	MK15_HUMAN	Mitogen-activated protein kinase 15	Y LIR	LSVPEYRSRV	YQMI	LECGGSSGTS	340	343	10	YES	Ref.
+Homo sapiens	Q99623	PHB2_HUMAN	Prohibitin-2	Y LIR	RPNAQELPSM	YQRL	GLDYEERVLP	121	124	11	YES	Ref.
+Homo sapiens	Q9Y4P1	ATG4B_HUMAN	Cysteine protease ATG4B	Y LIR	MDAATLT	YDTL	RFAEFEDFPE	8	11	12	YES	Ref.
+Homo sapiens	Q92830	KAT2A_HUMAN	Histone acetyltransferase KAT2A	Y LIR	GKELKDPDQL	YTTL	KNLLAQIKSH	734	737	7	YES	Ref.
+Homo sapiens	P40337	VHL_HUMAN	von Hippel-Lindau disease tumor suppressor	Y LIR	WLNFDGEPQP	YPTL	PPGTGRRIHS	98	101	4	YES	Ref.
+Homo sapiens	A0A3Q9JIX6	A0A3Q9JIX6_HUMAN	E2F transcription factor 3 isoform d	Y LIR	FLLWPPQPTS	YSRL	RTKFLPT	160	163	7	YES	Ref.
+Homo sapiens	Q6DD88	ATLA3_HUMAN	Atlastin-3	Y LIR	DLQQLQLFTE	YGRL	AMDEIFQKPF	192	195	6	YES	Ref.
+Homo sapiens	Q969V5	MUL1_HUMAN	Mitochondrial ubiquitin ligase activator of NFKB 1	Y LIR	CGHVCSCTEC	YRAL	PEPKKCPICR	327	330	5	YES	Ref.
+Mus musculus	Q62165	DAG1_MOUSE	Dystroglycan 1	Y LIR	TPLNQDTVGE	YTPL	RDEDPNAPPY	848	851	12	YES	Ref.
+Mus musculus	P97784	CRY1_MOUSE	Cryptochrome-1	Y LIR	RLFYFKLTDL	YKKV	KKNSSPPLSL	273	276	7	YES	Ref.
+Mus musculus	P97784	CRY1_MOUSE	Cryptochrome-1	Y LIR	MKQIYQQLSR	YRGL	GLLASVPSNS	494	497	4	YES	Ref.
+Homo sapiens	P55285	CADH6_HUMAN	Cadherin-6	Y LIR	ESVTTDADQD	YDYL	SDWGPRFKKL	764	767	14	YES	Ref.
+Homo sapiens	Q9H8Y8	GORS2_HUMAN	Golgi reassembly-stacking protein 2	Y LIR	GEGSLGCGIG	YGYL	HRIPTRPFEE	196	199	4	YES	Ref.
+Homo sapiens	P29353	SHC1_HUMAN	SHC-transforming protein 1	Y LIR	MDLLPPKPK	YNPL	RNESLSSLEE	10	13	6	YES	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	HGLAWSYYIG	YLRL	ILPELQARIR	167	170	8	YES	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	LLRGAVSQRL	YILL	PLDCGVPDNL	199	202	8	YES	Ref.
+Homo sapiens	Q86WV6	STING_HUMAN	Stimulator of interferon genes protein	Y LIR	IKDRVYSNSI	YELL	ENGQRAGTCV	245	248	9	YES	Ref.
+Homo sapiens	Q9Y4K3	TRAF6_HUMAN	TNF receptor-associated factor 6	Y LIR	QLPTAQRCAN	YISL	FVHTMQGEYD	406	409	10	YES	Ref.
+Zea mays	B4F9B1	B4F9B1_MAIZE	Reticulon-like protein	Y LIR	GEKAMIELKK	YYAI	FDEKCLSKIP	232	235	6	YES	Ref.
